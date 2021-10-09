@@ -25,6 +25,7 @@ Business Analyst (intern) 👨🏼‍💻  | Student @ University of Colombo (UC
 }
 
 Human [@amd](https://github.com/AmdPathirana) = new Human( ); 
+
 While([@amd](https://github.com/AmdPathirana).Alive) { 
 [@amd](https://github.com/AmdPathirana).WakeUp(); 
 [@amd](https://github.com/AmdPathirana).Eat();
