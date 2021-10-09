@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hola there 👋, ☺️
 
-<!--
-**AmdPathirana/AmdPathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Spring Boot 
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+CREATING_A_LIFE_I_LUV (🎯){  
+
+Loading…
+█ █ █ ▒▒▒▒▒▒▒
+
+Business Analyst (intern) 👨🏼‍💻  | Student @ University of Colombo (UCSC) 👨‍🎓 | University Of London Metropolitan University | Diploma in Information Technology 📚 | Aroundceylon 🌎 | Cricketer 🏏  | Swimmer 🏊 | Listener & Learner ⚒️  | Workouts 🏋️‍♀️
+
+}
+
+Human @amd = new Human( ); 
+While(@amd.Alive) { 
+@amd.WakeUp(); 
+@amd.Eat();
+@amd.WorkOuts();
+@amd.CREATING_A_LIFE_I_LUV(🎯);
+ }
+            
+  
+  🌎 Lives in 🇱🇰 | Gampaha | DIvulapitiya 
+  🗣 Speaking 2 languages 🇱🇰🇬🇧
+  🎓Diving into Tech+Business - Majored   in Computer Science, Data Science and Business Processes
