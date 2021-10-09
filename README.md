@@ -24,12 +24,12 @@ Business Analyst (intern) 👨🏼‍💻  | Student @ University of Colombo (UC
 
 }
 
-Human @amd = new Human( ); 
-While(@amd.Alive) { 
-@amd.WakeUp(); 
-@amd.Eat();
-@amd.WorkOuts();
-@amd.CREATING_A_LIFE_I_LUV(🎯);
+Human [@amd](https://github.com/AmdPathirana) = new Human( ); 
+While([@amd](https://github.com/AmdPathirana).Alive) { 
+[@amd](https://github.com/AmdPathirana).WakeUp(); 
+[@amd](https://github.com/AmdPathirana).Eat();
+[@amd](https://github.com/AmdPathirana).WorkOuts();
+[@amd](https://github.com/AmdPathirana).CREATING_A_LIFE_I_LUV(🎯);
  }
             
   
