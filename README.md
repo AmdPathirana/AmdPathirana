@@ -22,7 +22,8 @@ def CREATING_A_LIFE_I_LUV (🎯):
 
 
 [@amd](https://github.com/AmdPathirana) = Human( ) 
-- While [@amd](https://github.com/AmdPathirana) is Alive :  
+
+While [@amd](https://github.com/AmdPathirana) is Alive :  
     
     @amd.WakeUp() 
     @amd.Eat()
