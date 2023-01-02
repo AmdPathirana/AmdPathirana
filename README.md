@@ -7,7 +7,7 @@ Student @ University of Colombo (UCSC) 👨‍🎓 |University Of London Metropo
 - 🎓Diving into Tech+Business - Majored in Computer Science, Data Science and Business Processes
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me:[LinkedIn - aMOD pATHIRANA](https://www.linkedin.com/in/amod-pathirana-32b40992/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/amod-pathirana-32b40992/)
 <!--  - 📫 How to reach me: [Twitter - @AmodPathirana](https://twitter.com/AmodPathirana), 
                      [Facebook - Amod Pathirana](https://www.facebook.com),
                      [Clubhouse - @amdpathi](https://github.com/AmdPathirana),
@@ -30,10 +30,10 @@ def CREATING_A_LIFE_I_LUV (🎯):
 
 While [@amd](https://github.com/AmdPathirana) is Alive :
       
-      [@amd](https://github.com/AmdPathirana).WakeUp() 
-      [@amd](https://github.com/AmdPathirana).Eat()
-      [@amd](https://github.com/AmdPathirana).WorkOuts()
-      [@amd](https://github.com/AmdPathirana).CREATING_A_LIFE_I_LUV(🎯)
+   [@amd](https://github.com/AmdPathirana).WakeUp() 
+   [@amd](https://github.com/AmdPathirana).Eat()
+   [@amd](https://github.com/AmdPathirana).WorkOuts()
+   [@amd](https://github.com/AmdPathirana).CREATING_A_LIFE_I_LUV(🎯)
             
   
 <!--   🌎 Lives in 🇱🇰 | Gampaha | DIvulapitiya 
