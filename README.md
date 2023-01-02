@@ -1,7 +1,7 @@
 ### Hola there 👋, I'm Amod Pathirana☺️
-
+<!-- 
 Student @ University of Colombo (UCSC) 👨‍🎓 | University Of London Metropolitan University 
-
+ -->
 - 🔭 I’m currently working on Machine Learning (ML) 
 - 🌱 I’m currently learning Tensorflow 
 - 🎓Diving into Tech+Business - Majored in Computer Science, Data Science and Business Processes
