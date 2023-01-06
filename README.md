@@ -25,8 +25,8 @@ def CREATING_A_LIFE_I_LUV (🎯):
 
 While [@amd](https://github.com/AmdPathirana) is Alive :  
     
-    @amd.WakeUp() 
     @amd.Eat()
+    @amd.Work()
     @amd.WorkOuts()
     @amd.CREATING_A_LIFE_I_LUV(🎯)
             
