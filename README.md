@@ -17,17 +17,18 @@ def CREATING_A_LIFE_I_LUV (🎯):
     Loading…
     █ █ █ ▒▒▒▒▒▒▒
 
-    Business Analyst (intern) 👨🏼‍💻  | Aroundceylon 🌎 | Listener & Learner ⚒️  | Workouts 🏋️‍♀️
-
+    Business Analyst (intern) 👨🏼‍💻  | Aroundceylon 🌎 | 
+    Undergraduate Teaching Assistant (UTA) | Pearson BTEC (HND) in Computing
+    
 
 
 [@amd](https://github.com/AmdPathirana) = Human( ) 
 
 While [@amd](https://github.com/AmdPathirana) is Alive :  
     
-    @amd.Eat()
-    @amd.Work()
-    @amd.WorkOuts()
+    @amd.Eat(🍔, 🍕)
+    @amd.Work(👨‍💻)
+    @amd.WorkOuts(🏋️‍♀️)
     @amd.CREATING_A_LIFE_I_LUV(🎯)
             
   
