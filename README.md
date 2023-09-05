@@ -17,7 +17,7 @@ def CREATING_A_LIFE_I_LUV (🎯):
     Loading…
     █ █ █ ▒▒▒▒▒▒▒
 
-    Business Analyst (intern) 👨🏼‍💻  | Aroundceylon 🌎 | 
+     👨🏼‍💻  | Aroundceylon 🌎 | 
     Undergraduate Teaching Assistant (UTA) | Pearson BTEC (HND) in Computing
     
 
